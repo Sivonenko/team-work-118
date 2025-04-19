@@ -25,6 +25,7 @@ a {
 
 button {
   cursor: pointer;
+  background-color: transparent;
 }
 
 img {
